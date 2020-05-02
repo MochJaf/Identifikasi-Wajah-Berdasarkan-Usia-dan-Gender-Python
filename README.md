@@ -1,19 +1,21 @@
 # Identifikasi-Wajah-Berdasarkan-Usia-dan-Gender-Python
 
+<b>Alat/Tools Persiapan :</b>
+
 Dataset : weights.18-4.06.hdf5
 
-Python3.7.3
+1. Python3.7.3
 
-pip : Package Manager
+2. pip : Package Manager
 
-Numpy
+3. Numpy
 
-Keras
+4. Keras
 
-Tenserflow
+5. Tenserflow
 
-OpenCV
+6. OpenCV
 
-OpenCV-python
+7. OpenCV-python
 
-Dataset download : https://github.com/MochJaf/Identifikasi-Wajah-Berdasarkan-Usia-dan-Gender-Python/releases/download/V1.0/weights.18-4.06.hdf5
+<b>Dataset download</b> : https://github.com/MochJaf/Identifikasi-Wajah-Berdasarkan-Usia-dan-Gender-Python/releases/download/V1.0/weights.18-4.06.hdf5
