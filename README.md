@@ -6,7 +6,7 @@
 
 <b>Dataset download</b> : https://github.com/MochJaf/Identifikasi-Wajah-Berdasarkan-Usia-dan-Gender-Python/releases/download/V1.0/weights.18-4.06.hdf5
 
-   dan letakkan dataset di dalam folder pretrained_models
+   dan letakkan dataset di dalam folder <b>pretrained_models</b>
 
 
 2. Python3.7.3
