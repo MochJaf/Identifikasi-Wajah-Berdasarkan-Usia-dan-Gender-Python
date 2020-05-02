@@ -19,23 +19,23 @@ sudo apt install python3-pip
 ```
 4. Numpy
 ```
-pip install numpy
+pip3 install numpy
 ```
 5. Keras
 ```
-pip install keras
+pip3 install keras
 ```
 6. Tenserflow
 ```
-pip install tenserflow
+pip3 install tenserflow
 ```
 7. OpenCV
 ```
-pip install opencv
+pip3 install opencv
 ```
 8. OpenCV-python
 ```
-pip install opencv-python
+pip3 install opencv-python
 ```
 <b> Run the program : </b>
 ```
