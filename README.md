@@ -31,10 +31,6 @@ pip3 install tenserflow
 ```
 7. OpenCV
 ```
-pip3 install opencv
-```
-8. OpenCV-python
-```
 pip3 install opencv-python
 ```
 <b> Run the program : </b>
