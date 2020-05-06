@@ -25,9 +25,9 @@ pip3 install numpy
 ```
 pip3 install keras
 ```
-6. Tenserflow
+6. Tensorflow
 ```
-pip3 install tenserflow
+pip3 install tensorflow
 ```
 7. OpenCV
 ```
