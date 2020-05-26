@@ -11,7 +11,7 @@
 
 2. Python3.7.3
 ```
-apt-get install python3
+sudo apt-get install python3
 ```
 3. pip : Package Manager
 ```
